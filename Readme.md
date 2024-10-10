@@ -60,7 +60,7 @@ Replace `your_openai_api_key_here` with your actual OpenAI API key, and update t
 To run the script, use the following command:
 
 ```sh
-python your_script_name.py
+python text2video.py
 ```
 
 ## Debugging
